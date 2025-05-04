@@ -13,7 +13,7 @@ const Index = () => {
           className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 transition-all" 
           asChild
         >
-          <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://1wbfqv.life/casino/list?open=register&p=rddo" target="_blank" rel="noopener noreferrer">
             Перейти на сайт <ExternalLink size={16} />
           </a>
         </Button>

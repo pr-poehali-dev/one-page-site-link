@@ -17,7 +17,7 @@ const Index = () => {
       </div>
 
       <div className="text-center max-w-xl p-6 bg-white rounded-lg shadow-md">
-        <h1 className="text-4xl font-bold mb-4 text-black">Добро пожаловать!</h1>
+        <h1 className="text-4xl font-bold mb-4 text-black">Бесплатно регистрируйся и забирай бонус</h1>
         <p className="text-xl text-gray-600 mb-6">Ваш проект успешно создан</p>
         
         <Button 
